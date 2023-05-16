@@ -1,8 +1,10 @@
-# lingrow README
+# lingrow README (WIP)
 
 This is the README for your extension "lingrow". After writing up a brief description, we recommend including the following sections.
 
 ## Features
+
+This VSCode plugin aims to create automatically a tutorial or develop documentation like [ugit](https://www.leshenko.net/p/ugit).
 
 Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
 
